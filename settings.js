@@ -36,7 +36,7 @@ global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
 global.author = '😎MR.HASIYA❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.hasiya ,alive 😂alive)
+global.prefa = ['hasiya','!','.','😂','❤️','💠'] //Command Prefix eg:(.hasiya ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
